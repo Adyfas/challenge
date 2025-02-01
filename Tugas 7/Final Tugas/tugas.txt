@@ -1,0 +1,18 @@
+buat website tentang diri kamu atau portofolio
+
+awalnya itu ada navbar bebas isinya apa aja
+
+jadi di konten utama coba buat di bagian kanan itu foto dan di bawah fotonya itu profesi kamu
+lalu di bagian kirinya itu ada nama dan penjelasan singkat tentang kamu 
+
+untuk konten 2 coba buat sebuah card yang dimana di dalam card itu ada foto projek, lalu di bawahnya judul projek dan di bawahnya lagi software yang di gunakan apa kalau tentang teknologi mungkin menggunakan bahsa apa 
+
+untuk konten yang ke 3 itu ada form kontak
+
+untuk konten yang terakhir itu ada footer
+
+dan yang paling penting responsif 
+
+deploy projek kamu di vercel atau di github page ok
+
+gaskannn
